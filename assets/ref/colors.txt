@@ -1,0 +1,4 @@
+blue: 1e93cc
+dark-grey: 333333
+light-gray: eeeeee
+darker-grey: 222222

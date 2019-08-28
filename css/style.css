@@ -1,0 +1,39 @@
+/* normalize.css */
+@import url('normalize.css');
+
+/* fonts */
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,500&display=swap');
+
+/* 
+font-family: 'Roboto', sans-serif; 
+
+400
+500
+*/
+
+/* 
+blue: 1e93cc
+dark-grey: 333333
+light-gray: eeeeee
+darker-grey: 222222
+*/
+
+/* ####### global ######"*/
+
+body {
+   font-family: 'Roboto', sans-serif;
+   font-weight: 400;
+}
+
+.wrapper {
+   max-width: 1280px;
+   margin: 0 auto;
+}
+
+/* #######  ######"*/
+
+
+/* #######  ######"*/
+
+
+/* #######  ######"*/
